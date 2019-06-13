@@ -38,5 +38,5 @@ Neural Network -A model of two fully connected layer and one dense layer with re
 - Parameter Tuning     
 Various hyper-parameters were tuned to increase the performance like number of leaf, bagging fraction, feature fraction, min data in leaf etc.
 
-- Result
+## Result  
 Ended up in the top 10% on leaderboard

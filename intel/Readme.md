@@ -17,7 +17,7 @@ There are 17034 images in train and 7301 images in test data. The categories of 
 'sea' -> 4
 'street' -> 5
 
-- CNN
+- CNN   
 A three layer convolutional network with relu & sigmoid activation function, uniform kernel initializer, a dropout of 0.3, 0.4 & 0.2 at each layer and a final dense layer with softmax activation was built. Model was compiled with categorical_crossentropy loss function , adam optimizer and accuracy performance matric . The model was trained for 30 epoch with batch size 128.
 
 
